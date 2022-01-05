@@ -18,7 +18,7 @@ Welcome to Ocean Dynamics at [NCSU](https://www.ncsu.edu/)
 
 
 We are in the department of [Marine, Earth and Atmospheric Sciences](https://meas.sciences.ncsu.edu).
-Our [group](Group/index.html) is interested in all aspects of modeling and observation of
+Our [group](Group/index.html) is interested in all aspects of modeling and observations of
 ocean phenomena.
 
 We are currently working on research problems related to:
