@@ -1,32 +1,21 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-#title: Oceans and Climate at NC State University
-list_title: "Research and Group News"
+layout: about
+permalink: /
+profile:
+  align: right
+  image: profile.png
+published: true
 ---
 
-<img src="/images/big_sur.jpeg">
+[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
+If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
-| Room 4156 Jordan Hall, NCSU |  [bio](images/cv_bishop_ncsu_April20.pdf) |
+The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
 
-Welcome to Ocean Dynamics at [NCSU](https://www.ncsu.edu/)
+PS: If you liked the theme, do star it on GitHub!
 
-----------------
+### Also, check out:
 
-
-We are in the department of [Marine, Earth and Atmospheric Sciences](https://meas.sciences.ncsu.edu).
-Our [group](Group/index.html) is interested in all aspects of modeling and observations of
-ocean phenomena.
-
-We are currently working on research problems related to:
-
-- Western Boundary Current dynamics
-- Mesoscale air-sea interaction and stochastic differential equations
-- High-resolution climate modeling
-- Submesoscale processes
-- Observations using remote sensing and autonomous gliders/Saildrones
-
------------------
+- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
+- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
